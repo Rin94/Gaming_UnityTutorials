@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Assets/Escenas/Title.unity
+    guid: 90a55d4e7c368434a9e231c509dd9489
+  - enabled: 1
+    path: Assets/Assets/Escenas/Seleccion.unity
+    guid: e3594f8d166fa410687996615818bc93
+  - enabled: 1
+    path: Assets/Assets/Escenas/EscenaPreparacion.unity
+    guid: a0d2d287d1825c74c869addcfeed9507
+  - enabled: 1
+    path: Assets/Assets/Escenas/nivel_1.unity
+    guid: 01214c39c845a4484b79ec0ed28916ce
+  - enabled: 1
+    path: Assets/Assets/Escenas/nivel_2.unity
+    guid: 3bdd683eb3b434536a0f166c4180a297
+  - enabled: 1
+    path: Assets/Assets/Escenas/nivel_retro.unity
+    guid: 493cf16ecc37d4b389cf5a5079e083c3
+  - enabled: 1
+    path: Assets/Assets/Escenas/nivel_tiempo.unity
+    guid: c856ffd11b69447f39fde94061833657
+  - enabled: 1
+    path: Assets/Assets/Escenas/PantallaScene.unity
+    guid: e4eb3c4df99b24a3182ab3e37a36a540

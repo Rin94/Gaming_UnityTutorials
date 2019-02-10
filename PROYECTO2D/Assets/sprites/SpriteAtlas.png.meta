@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 5e1c2585752d04c03adbda00dc467818
+timeCreated: 1516483456
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlas_0
+    21300002: SpriteAtlas_1
+    21300004: SpriteAtlas_2
+    21300006: SpriteAtlas_3
+    21300008: SpriteAtlas_4
+    21300010: SpriteAtlas_5
+    21300012: SpriteAtlas_6
+    21300014: SpriteAtlas_7
+    21300016: SpriteAtlas_8
+    21300018: SpriteAtlas_9
+    21300020: SpriteAtlas_10
+    21300022: SpriteAtlas_11
+    21300024: SpriteAtlas_12
+    21300026: SpriteAtlas_13
+    21300028: SpriteAtlas_14
+    21300030: SpriteAtlas_15
+    21300032: SpriteAtlas_16
+    21300034: SpriteAtlas_17
+    21300036: SpriteAtlas_18
+    21300038: SpriteAtlas_19
+    21300040: SpriteAtlas_20
+    21300042: SpriteAtlas_21
+    21300044: SpriteAtlas_22
+    21300046: SpriteAtlas_23
+    21300048: SpriteAtlas_24
+    21300050: SpriteAtlas_25
+    21300052: SpriteAtlas_26
+    21300054: SpriteAtlas_27
+    21300056: SpriteAtlas_28
+    21300058: SpriteAtlas_29
+    21300060: SpriteAtlas_30
+    21300062: SpriteAtlas_31
+    21300064: SpriteAtlas_32
+    21300066: SpriteAtlas_33
+    21300068: SpriteAtlas_34
+    21300070: SpriteAtlas_35
+    21300072: SpriteAtlas_36
+    21300074: SpriteAtlas_37
+    21300076: SpriteAtlas_38
+    21300078: SpriteAtlas_39
+    21300080: SpriteAtlas_40
+    21300082: SpriteAtlas_41
+    21300084: SpriteAtlas_42
+    21300086: SpriteAtlas_43
+    21300088: SpriteAtlas_44
+    21300090: SpriteAtlas_45
+    21300092: SpriteAtlas_46
+    21300094: SpriteAtlas_47
+    21300096: SpriteAtlas_48
+    21300098: SpriteAtlas_49
+    21300100: SpriteAtlas_50
+    21300102: SpriteAtlas_51
+    21300104: SpriteAtlas_52
+    21300106: SpriteAtlas_53
+    21300108: SpriteAtlas_54
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 10}
+        - {x: 13, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 7}
+        - {x: 14, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -11, y: 16}
+        - {x: -14, y: 13}
+        - {x: -15, y: 7}
+        - {x: -15, y: -13}
+        - {x: -13, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -2}
+        - {x: 14, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 10}
+        - {x: 13, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 7}
+        - {x: 14, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -11, y: 16}
+        - {x: -14, y: 13}
+        - {x: -15, y: 7}
+        - {x: -15, y: -13}
+        - {x: -13, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: -2}
+        - {x: 14, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 10}
+        - {x: 8, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 15}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 5}
+        - {x: 12, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -16, y: 10}
+        - {x: -16, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: 6, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -16, y: 10}
+        - {x: -16, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: 6, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -16, y: 13}
+        - {x: -16, y: -13}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 2}
+        - {x: 7, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 8}
+        - {x: 14, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 10}
+        - {x: -16, y: -1}
+        - {x: -16, y: -11}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 4, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -13, y: 16}
+        - {x: -16, y: 7}
+        - {x: -16, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 11, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -8}
+        - {x: -11, y: -12}
+        - {x: -10, y: -12}
+        - {x: -12, y: -14}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: 8, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 10}
+        - {x: -16, y: -1}
+        - {x: -16, y: -11}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 4, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -7}
+        - {x: -11, y: -12}
+        - {x: -10, y: -12}
+        - {x: -12, y: -14}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: 7, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -8}
+        - {x: -11, y: -12}
+        - {x: -10, y: -12}
+        - {x: -12, y: -14}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: 8, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -10}
+        - {x: -16, y: -14}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 6}
+        - {x: 13, y: 16}
+        - {x: -1, y: 16}
+        - {x: -15, y: -1}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 10}
+        - {x: -14, y: 2}
+        - {x: -15, y: -3}
+        - {x: -15, y: -10}
+        - {x: 15, y: -10}
+        - {x: 15, y: 4}
+        - {x: 7, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -10}
+        - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+        - {x: 9, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -14}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: -13}
+        - {x: 6, y: 14}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 8}
+        - {x: 7, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -5}
+        - {x: -14, y: -8}
+        - {x: -10, y: -9}
+        - {x: -6, y: -11}
+        - {x: -6, y: -10}
+        - {x: -10, y: -12}
+        - {x: -12, y: -14}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+        - {x: 10, y: 16}
+      - - {x: 3, y: -11}
+        - {x: 4, y: -12}
+        - {x: 2, y: -12}
+        - {x: 3, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 12}
+        - {x: -15, y: -3}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: 6, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -15, y: 13}
+        - {x: -16, y: 12}
+        - {x: -16, y: -15}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+        - {x: 8, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -16}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpriteAtlas_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

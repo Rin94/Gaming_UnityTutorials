@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SuperPerlaWorld.unity
+  isLoaded: 1
+  isActive: 1

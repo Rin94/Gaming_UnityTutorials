@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{A11C8F61-62F6-B2EE-37F7-EE534F4BB163}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Assets/Scripts/Tiempo.cs">
+    <Files>
+      <File FileName="Assets/Assets/Scripts/PauseMenu.cs" Line="10" Column="5" />
+      <File FileName="Assets/Assets/Scripts/ComboScript.cs" Line="41" Column="11" />
+      <File FileName="Assets/Assets/Scripts/Generador.cs" Line="164" Column="1" />
+      <File FileName="Assets/Assets/Scripts/Tiempo.cs" Line="57" Column="10" />
+      <File FileName="Assets/Assets/Scripts/gameOverScript.cs" Line="20" Column="71" />
+      <File FileName="Assets/Assets/Scripts/PuntuacionScript.cs" Line="55" Column="1" />
+      <File FileName="Assets/Assets/Scripts/SaludScript.cs" Line="43" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HK PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
